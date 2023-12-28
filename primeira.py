@@ -29,15 +29,15 @@
 # >= Maior ou igual que
 # <= Menor ou igual que
 
-valorA = 10
-valorB = 20
-frutaA = "Banana"
-frutaB = "banana"
+# valorA = 10
+# valorB = 20
+# frutaA = "Banana"
+# frutaB = "banana"
 
-if frutaA != frutaB:
-    print("As frutas não são iguais")
-else:
-    print("As frutas são iguais")
+# if frutaA != frutaB:
+#     print("As frutas não são iguais")
+# else:
+#     print("As frutas são iguais")
 
 #operacao = frutaA == frutaB
 #print(operacao)
